@@ -1,4 +1,6 @@
-TFTP Server
-===========
+TFTP Server (C++)
+=================
 
-This is an implementation of the TFTP protocol for the Server side in C++, which was a project for ECS 152B (Computer Networks)
+Just a simple Trivial File Transfer Protocol (TFTP) server written in C++. 
+
+Added feature, the ability to list the contents of a directory. 
